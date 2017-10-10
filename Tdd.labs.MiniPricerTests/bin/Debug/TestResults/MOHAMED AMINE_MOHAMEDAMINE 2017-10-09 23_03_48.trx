@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="eaa75b1d-658c-4351-a95a-1d01d96cf94b" name="MOHAMED AMINE@MOHAMEDAMINE 2017-10-09 23:03:48" runUser="MOHAMEDAMINE\MOHAMED AMINE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e1507ff7-65c4-4118-a476-3b6bd7f3b3e7">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="MOHAMED AMINE_MOHAMEDAMINE 2017-10-09 23_03_48" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-10-09T23:03:48.1086205+02:00" queuing="2017-10-09T23:03:50.5128855+02:00" start="2017-10-09T23:03:50.8604962+02:00" finish="2017-10-09T23:03:52.2314672+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="7" executed="7" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ShouldReturnPriceForSaturday_Test" storage="tdd.labs.minipricertests.dll" id="2ef0ab78-6f2f-faf7-6ecb-bb584d982718">
+      <Execution id="db131a66-e049-4300-a958-657c5ec5abff" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnPriceForSaturday_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnPriceForPublicHoliday_Test" storage="tdd.labs.minipricertests.dll" id="3bc1d0ef-3f95-57df-ae74-0250f1058fc4">
+      <Execution id="23e6088f-ae77-44a7-89ef-6628965fb308" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnPriceForPublicHoliday_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnMoreThanOneDayFuturPrice_Test" storage="tdd.labs.minipricertests.dll" id="fba22a24-5b5c-b10b-d9c5-c4c23943c0e3">
+      <Execution id="ce93f8fa-ddba-474c-b3f0-19a18ea34dbf" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnMoreThanOneDayFuturPrice_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnPriceForSunday_Test" storage="tdd.labs.minipricertests.dll" id="a98a972a-86c2-916b-efda-0dc6d3c0d2be">
+      <Execution id="1d63e6ce-481b-48ea-aa80-7a340b6a74a9" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnPriceForSunday_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnTodayPrice_Test" storage="tdd.labs.minipricertests.dll" id="47b42f1a-5328-cb96-1301-78f1e6a942d2">
+      <Execution id="03fef1dd-9705-4bd7-b914-29948dd18659" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnTodayPrice_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnOneDayFuturPrice_Test" storage="tdd.labs.minipricertests.dll" id="114fa902-e6d7-37e7-e670-f4fb7a6931f4">
+      <Execution id="52e119f8-0627-48f2-b794-d2aeaf5be969" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnOneDayFuturPrice_Test" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnPriceWhenSaturdayAndSundayAreInTheMiddle_Test" storage="tdd.labs.minipricertests.dll" id="5c13c8f9-dcd7-8261-8686-2cad108e885c">
+      <Execution id="9630707d-f5ac-4358-8bda-45bea16c6922" />
+      <TestMethod codeBase="C:/Users/MOHAMED AMINE/Documents/Visual Studio 2015/Projects/Tdd.Labs/Tdd.labs.MiniPricerTests/bin/Debug/Tdd.labs.MiniPricerTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tdd.labs.MiniPricerTests.MiniPricerTest, Tdd.labs.MiniPricerTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ShouldReturnPriceWhenSaturdayAndSundayAreInTheMiddle_Test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fba22a24-5b5c-b10b-d9c5-c4c23943c0e3" executionId="ce93f8fa-ddba-474c-b3f0-19a18ea34dbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="114fa902-e6d7-37e7-e670-f4fb7a6931f4" executionId="52e119f8-0627-48f2-b794-d2aeaf5be969" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3bc1d0ef-3f95-57df-ae74-0250f1058fc4" executionId="23e6088f-ae77-44a7-89ef-6628965fb308" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2ef0ab78-6f2f-faf7-6ecb-bb584d982718" executionId="db131a66-e049-4300-a958-657c5ec5abff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a98a972a-86c2-916b-efda-0dc6d3c0d2be" executionId="1d63e6ce-481b-48ea-aa80-7a340b6a74a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5c13c8f9-dcd7-8261-8686-2cad108e885c" executionId="9630707d-f5ac-4358-8bda-45bea16c6922" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47b42f1a-5328-cb96-1301-78f1e6a942d2" executionId="03fef1dd-9705-4bd7-b914-29948dd18659" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ce93f8fa-ddba-474c-b3f0-19a18ea34dbf" testId="fba22a24-5b5c-b10b-d9c5-c4c23943c0e3" testName="ShouldReturnMoreThanOneDayFuturPrice_Test" computerName="MOHAMEDAMINE" duration="00:00:00.3993777" startTime="2017-10-09T23:03:51.1316325+02:00" endTime="2017-10-09T23:03:52.0838898+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce93f8fa-ddba-474c-b3f0-19a18ea34dbf">
+    </UnitTestResult>
+    <UnitTestResult executionId="52e119f8-0627-48f2-b794-d2aeaf5be969" testId="114fa902-e6d7-37e7-e670-f4fb7a6931f4" testName="ShouldReturnOneDayFuturPrice_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0037804" startTime="2017-10-09T23:03:52.0928930+02:00" endTime="2017-10-09T23:03:52.0993938+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52e119f8-0627-48f2-b794-d2aeaf5be969">
+    </UnitTestResult>
+    <UnitTestResult executionId="23e6088f-ae77-44a7-89ef-6628965fb308" testId="3bc1d0ef-3f95-57df-ae74-0250f1058fc4" testName="ShouldReturnPriceForPublicHoliday_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0095339" startTime="2017-10-09T23:03:52.1088966+02:00" endTime="2017-10-09T23:03:52.1209016+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23e6088f-ae77-44a7-89ef-6628965fb308">
+    </UnitTestResult>
+    <UnitTestResult executionId="db131a66-e049-4300-a958-657c5ec5abff" testId="2ef0ab78-6f2f-faf7-6ecb-bb584d982718" testName="ShouldReturnPriceForSaturday_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0021600" startTime="2017-10-09T23:03:52.1279020+02:00" endTime="2017-10-09T23:03:52.1324186+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db131a66-e049-4300-a958-657c5ec5abff">
+    </UnitTestResult>
+    <UnitTestResult executionId="1d63e6ce-481b-48ea-aa80-7a340b6a74a9" testId="a98a972a-86c2-916b-efda-0dc6d3c0d2be" testName="ShouldReturnPriceForSunday_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0021480" startTime="2017-10-09T23:03:52.1394066+02:00" endTime="2017-10-09T23:03:52.1439247+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1d63e6ce-481b-48ea-aa80-7a340b6a74a9">
+    </UnitTestResult>
+    <UnitTestResult executionId="9630707d-f5ac-4358-8bda-45bea16c6922" testId="5c13c8f9-dcd7-8261-8686-2cad108e885c" testName="ShouldReturnPriceWhenSaturdayAndSundayAreInTheMiddle_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0022525" startTime="2017-10-09T23:03:52.1509093+02:00" endTime="2017-10-09T23:03:52.1559113+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9630707d-f5ac-4358-8bda-45bea16c6922">
+    </UnitTestResult>
+    <UnitTestResult executionId="03fef1dd-9705-4bd7-b914-29948dd18659" testId="47b42f1a-5328-cb96-1301-78f1e6a942d2" testName="ShouldReturnTodayPrice_Test" computerName="MOHAMEDAMINE" duration="00:00:00.0004853" startTime="2017-10-09T23:03:52.1624182+02:00" endTime="2017-10-09T23:03:52.1654487+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03fef1dd-9705-4bd7-b914-29948dd18659">
+    </UnitTestResult>
+  </Results>
+</TestRun>
