@@ -19,16 +19,17 @@ namespace Tdd.Labs.MiniPricer
         {
             this._publicHolidayProvider = new PublicHolidayProvider();
         }
-        public double CalculatePrice(DateTime pricingDate, double currentPrice, double volatility)
+        public double CalculatePrice(DateTime pricingDate, double currentPrice, IVolatilityProvider volatility)
         {
             var currentDate = DateTime.Today;
             var finalPrice = currentPrice;
+            var volatilityValue = volatility.IsGrowth() ? volatility.GetVolatility() : volatility.GetVolatility() * -1; 
             while (pricingDate > currentDate)
             {
                 currentDate = currentDate.AddDays(1);
                 if (this._publicHolidayProvider.IsPublicHoliday(currentDate) || currentDate.DayOfWeek == DayOfWeek.Saturday || currentDate.DayOfWeek == DayOfWeek.Sunday)
                     continue;
-                finalPrice *= (1 + volatility / 100);
+                finalPrice *= (1 +  volatilityValue/ 100);
             }
             return finalPrice;
         }

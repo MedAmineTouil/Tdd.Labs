@@ -60,6 +60,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="MiniPricerStepOneTest.cs" />
+    <Compile Include="MiniPricerStepTwoTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

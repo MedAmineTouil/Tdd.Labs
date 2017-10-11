@@ -41,10 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Externals\IPublicHolidayProvider.cs" />
-    <Compile Include="Externals\PublicHolidayProvider.cs" />
+    <Compile Include="Objects\PublicHolidayProvider.cs" />
     <Compile Include="MiniPricer.cs" />
+    <Compile Include="Externals\IVolatilityProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Objects\Volatility.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

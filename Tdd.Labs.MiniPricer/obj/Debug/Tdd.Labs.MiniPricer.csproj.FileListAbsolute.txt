@@ -3,3 +3,8 @@ c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.Labs.M
 c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.dll
 c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.pdb
 C:\Users\MOHAMED AMINE\Documents\Visual Studio 2015\Projects\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.csprojResolveAssemblyReference.cache
+D:\Source\Github\Tdd.Labs\Tdd.Labs.MiniPricer\bin\Debug\Tdd.Labs.MiniPricer.dll
+D:\Source\Github\Tdd.Labs\Tdd.Labs.MiniPricer\bin\Debug\Tdd.Labs.MiniPricer.pdb
+D:\Source\Github\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.csprojResolveAssemblyReference.cache
+D:\Source\Github\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.dll
+D:\Source\Github\Tdd.Labs\Tdd.Labs.MiniPricer\obj\Debug\Tdd.Labs.MiniPricer.pdb

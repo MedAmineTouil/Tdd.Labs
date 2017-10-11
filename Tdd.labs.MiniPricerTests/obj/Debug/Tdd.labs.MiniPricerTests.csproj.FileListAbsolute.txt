@@ -11,3 +11,16 @@ c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.labs.M
 c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.dll
 c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.pdb
 c:\users\mohamed amine\documents\visual studio 2015\Projects\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.xml
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\obj\Debug\Tdd.labs.MiniPricerTests.csprojResolveAssemblyReference.cache
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\obj\Debug\Tdd.labs.MiniPricerTests.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\obj\Debug\Tdd.labs.MiniPricerTests.pdb
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Tdd.labs.MiniPricerTests.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Tdd.labs.MiniPricerTests.pdb
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Castle.Core.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Tdd.Labs.MiniPricer.dll
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Tdd.Labs.MiniPricer.pdb
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.pdb
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Moq.xml
+D:\Source\Github\Tdd.Labs\Tdd.labs.MiniPricerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

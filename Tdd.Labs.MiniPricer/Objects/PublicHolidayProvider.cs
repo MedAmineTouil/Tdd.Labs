@@ -21,7 +21,7 @@ namespace Tdd.Labs.MiniPricer.Externals
 
         public bool IsPublicHoliday(DateTime date)
         {
-            throw new NotImplementedException();
+            return this._holidays.Contains(date);
         }
     }
 }
